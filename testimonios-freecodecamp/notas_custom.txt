@@ -1,0 +1,13 @@
+Borrar los siguientes archivos en proyectos sencillos
+
+setupTest.js
+reportWebVitals.js
+App.test.js
+
+En index.js eliminamos la línea que importa reportWebVitals y la función que lo llama
+
+Eliminar todo lo que se encuentra dentro del DIV que está en App.js
+Eliminar todos el contenido de App.cs para borrar todos los estilos
+
+Me quede en el 1.55
+https://www.youtube.com/watch?v=6Jfk8ic3KVk
