@@ -9,5 +9,14 @@ En index.js eliminamos la línea que importa reportWebVitals y la función que l
 Eliminar todo lo que se encuentra dentro del DIV que está en App.js
 Eliminar todos el contenido de App.cs para borrar todos los estilos
 
-Me quede en el 1.55
+En App.js invocamos el componente de la siguiente manera, dentro del div principal:
+
+import Testimonio from './components/Testimonio';
+ <Testimonio />
+
+ Exportamos en Testimonio.js
+
+ export default Testimonio;
+
+
 https://www.youtube.com/watch?v=6Jfk8ic3KVk
